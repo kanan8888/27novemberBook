@@ -9,7 +9,7 @@ namespace WebApp27noyabr
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
-            builder.Services.AddDbContext<AppDbContext>(opt=>opt.UseSqlServer("server=DESKTOP-GTVND9D;database=Ab107@7November;Trustet_connection=true;Encrypt=false"));
+            builder.Services.AddDbContext<AppDbContext>(opt=>opt.UseSqlServer("server=LAPTOP-769FD5C5;database=Ab107_27November;Trusted_connection=true;Encrypt=false"));
 
             var app = builder.Build();
 
