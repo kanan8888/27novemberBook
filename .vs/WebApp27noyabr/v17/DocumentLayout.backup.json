@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\areas\\admin\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\areas\\admin\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\webapp27noyabr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\webapp27noyabr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|c:\\users\\i novbe\\source\\repos\\webapp27noyabr\\webapp27noyabr\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C36D6E-37A8-44D9-BF1B-754B697AAD84}|WebApp27noyabr\\WebApp27noyabr.csproj|solutionrelative:webapp27noyabr\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "WebApp27noyabr\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T09:19:17.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "WebApp27noyabr\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T09:15:50.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\Areas\\Admin\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeToolTip": "WebApp27noyabr\\Areas\\Admin\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:15:43.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Models\\BookCategory.cs",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\Models\\BookCategory.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Models\\BookCategory.cs",
+              "RelativeToolTip": "WebApp27noyabr\\Models\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:47:04.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Models\\Slider.cs",
+              "RelativeToolTip": "WebApp27noyabr\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:40:41.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WebApp27noyabr\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:33:42.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "WebApp27noyabr\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T08:33:40.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebApp27noyabr",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\WebApp27noyabr.csproj",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\WebApp27noyabr.csproj",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\WebApp27noyabr.csproj",
+              "RelativeToolTip": "WebApp27noyabr\\WebApp27noyabr.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T08:33:25.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Models\\Book.cs",
+              "RelativeToolTip": "WebApp27noyabr\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:33:06.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp27noyabr\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T08:32:46.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApp27noyabr\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGQDAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T08:24:20.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApp27noyabr\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T08:19:04.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp27noyabr\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:05:14.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Dal\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\Dal\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Dal\\AppDbContext.cs",
+              "RelativeToolTip": "WebApp27noyabr\\Dal\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:03:46.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebApp27noyabr\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-27T08:30:39.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp27noyabr\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T08:10:50.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp27noyabr\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp27noyabr\\WebApp27noyabr\\Program.cs",
+              "RelativeToolTip": "WebApp27noyabr\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:07:38.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
